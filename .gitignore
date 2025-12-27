@@ -1,5 +1,0 @@
-*.pkl
-*.csv
-uploads/
-__pycache__/
-.env
